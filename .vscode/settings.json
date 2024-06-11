@@ -1,0 +1,33 @@
+{
+    "cSpell.words": [
+        "antd",
+        "cronstrue",
+        "Estree",
+        "giaang",
+        "hookform",
+        "inferencer",
+        "Kbar",
+        "nextjs",
+        "NORD",
+        "Passwordless",
+        "pwdless",
+        "pwless",
+        "Redlock",
+        "refinedev",
+        "Sider",
+        "tasktr"
+    ],
+    "conventionalCommits.scopes": [
+        "be/auth",
+        "fe",
+        "be",
+        "fe/auth",
+        "fe/page",
+        "fe/components",
+        "actions",
+        "configs",
+        "be/tasks",
+        "nx",
+        "ci"
+    ]
+}
